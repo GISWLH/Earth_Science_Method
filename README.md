@@ -2,7 +2,7 @@
 
 classic method in earth science (Will be updated)
 
-![](logo\image-removebg-preview (1).png)
+![](https://imagecollection.oss-cn-beijing.aliyuncs.com/office/image-removebg-preview%20(1).png)
 
 地学中的潜在或经典模型，可能有助于研究和数据定量分析（将不断更新）
 
