@@ -20,6 +20,10 @@ classic method in earth science (Will be updated)
 
 [R2 分解到每个变量上：相对重要性分析 (Dominance Analysis) - 知乎](https://zhuanlan.zhihu.com/p/75459438)
 
+[ElasticNet回归的python实现及与岭回归、lasso的效果比较 - 知乎](https://zhuanlan.zhihu.com/p/61929632)
+
+[偏最小二乘法 Partial Least Squares-CSDN博客](https://blog.csdn.net/fjsd155/article/details/93414969)
+
 ## 地学模型
 
 [地理分析方法论|地理探测器（Geo Detector）-CSDN博客](https://blog.csdn.net/weixin_46004577/article/details/126613416)
