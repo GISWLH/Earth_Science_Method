@@ -14,6 +14,8 @@ classic method in earth science (Will be updated)
 
 [Science经典论文：如何检测复杂生态系统中的因果关系？ - 知乎](https://zhuanlan.zhihu.com/p/94290994)
 
+[Nature: 因果关系可分解为协同、独特和冗余部分](https://mp.weixin.qq.com/s/xpSfLrsfjXKCN_zoaA2bTQ)
+
 [笔记06：收敛交叉映射（CCM）的R语言实现 - 知乎](https://zhuanlan.zhihu.com/p/441523812)
 
 [Dominance-Analysis : A Python Library for Accurate and Intuitive Relative Importance of Predictors | Welcome to Dominance-Analysis Homepage!](https://dominance-analysis.github.io/dominance-analysis/)
@@ -29,4 +31,6 @@ classic method in earth science (Will be updated)
 [地理分析方法论|地理探测器（Geo Detector）-CSDN博客](https://blog.csdn.net/weixin_46004577/article/details/126613416)
 
 ## 机器学习
+
+[IF18.8nature子刊--基于树的 Explainable AI：从局部解释到全局理解](https://mp.weixin.qq.com/s/MPx5r2yAhJUOgJX4jBTEfg)
 
