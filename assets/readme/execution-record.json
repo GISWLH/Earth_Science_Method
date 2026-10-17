@@ -1,0 +1,14 @@
+{
+  "repo": "GISWLH/Earth_Science_Method",
+  "environment": "EHPC PBS",
+  "execution_scope": "Preview of the original Earth Science Method resource catalogue rendered on EHPC. This is a documentation preview of the linked learning materials, not a program execution result or scientific benchmark.",
+  "exit_code": 0,
+  "output": {
+    "path": "assets/readme/execution-result.png",
+    "sha256": "5bf05939b6c838f09b3ca957162dc7a6da74d0dada1f6f064cea5b2a22e212b0"
+  },
+  "kind": "documentation preview",
+  "project_execution": false,
+  "browser": "Firefox 91.10 ESR",
+  "source_modified": false
+}
