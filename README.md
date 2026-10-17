@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![Earth_Science_Method — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # Earth_Science_Method
 
 classic method in earth science (Will be updated)
@@ -34,3 +38,6 @@ classic method in earth science (Will be updated)
 
 [IF18.8nature子刊--基于树的 Explainable AI：从局部解释到全局理解](https://mp.weixin.qq.com/s/MPx5r2yAhJUOgJX4jBTEfg)
 
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
